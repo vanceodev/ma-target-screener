@@ -11,7 +11,7 @@ The investment theses generated using this tool are produced by an AI model for 
 ## Features
 - Automated download of the latest 10-K filing for any U.S. public company
 - Extraction of Business, Risk Factors, and MD&A sections
-- Clean text output ready for use with Google AI Studio / Gemini or other LLMs
+- Clean text output ready for use with ChatGPT, Claude, Gemini, or other LLMs
 - Example theses included
 
 ## Example Output
